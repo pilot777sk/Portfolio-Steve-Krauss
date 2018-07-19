@@ -460,19 +460,12 @@ body {
 // Contact
 /////////////////////////////////////////////////////////////////////*/
 #contact {
-	color: #fff;	
-}
-
-
-#bgImage {    
-	z-index:1;
-	
+	color: #fff;
 	background: url(../img/bg/connect.jpg) no-repeat center center;
 	background-size:  cover; 
-	height-size: 100%;
-
-	 
+	height-size: 100%;	
 }
+
 
 
 #contact .block-heading h1
